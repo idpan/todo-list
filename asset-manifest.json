@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1139f84c.css",
+    "main.js": "/static/js/main.88e75984.js",
+    "static/js/787.f60fb86f.chunk.js": "/static/js/787.f60fb86f.chunk.js",
+    "static/media/bg-desktop-light.jpg": "/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "static/media/josefin-sans-all-400-normal.woff": "/static/media/josefin-sans-all-400-normal.e89cb50b139916039cdc.woff",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/static/media/josefin-sans-latin-400-normal.36152c4291179fb52202.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/static/media/josefin-sans-latin-ext-400-normal.3229870392aaa18099d0.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/static/media/josefin-sans-vietnamese-400-normal.4a3e569a0e9e99674d59.woff2",
+    "index.html": "/index.html",
+    "static/media/icon-sun.svg": "/static/media/icon-sun.910b1f9a23741afc341e.svg",
+    "static/media/icon-moon.svg": "/static/media/icon-moon.6c03114b495d05f4380b.svg",
+    "static/media/icon-cross.svg": "/static/media/icon-cross.6ee81d30b75cab19d6f7.svg",
+    "static/media/icon-check.svg": "/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.1139f84c.css.map": "/static/css/main.1139f84c.css.map",
+    "main.88e75984.js.map": "/static/js/main.88e75984.js.map",
+    "787.f60fb86f.chunk.js.map": "/static/js/787.f60fb86f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1139f84c.css",
+    "static/js/main.88e75984.js"
+  ]
+}
